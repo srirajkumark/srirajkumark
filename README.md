@@ -2,6 +2,7 @@
 - 👋 Hi, I’m Sri Raj K
 - 👀 I’m interested to become a Passionate Frontend Developer
 - 🌱 I’m currently learning Frontend Development(React.Js)
+- Focus on Learning
 
 <!---
 srirajkumark/srirajkumark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
