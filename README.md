@@ -4,6 +4,7 @@
 - I’m interested to become a Passionate Full Stack Developer.
 - I had knowledge in tools & technologies like HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React, WordPress, Sitecore, C# and Python
 - Focusing on Learning.
+- Thank you for visiting my page.
 
 
 <!---
