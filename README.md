@@ -2,7 +2,7 @@
 - Hi, I’m Sri Raj Kumar.
 - I'm a Frontend UI Developer.
 - I’m an Aspiring Full Stack Developer.
-- I had knowledge in tools & technologies like HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React, WordPress, Sitecore, C# and Python.
+- I have strong knowledge of tools and technologies including HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React, WordPress, Sitecore, C#, and Python.
 - Focusing on Learning.
 - Thank you for visiting my GitHub.
 
