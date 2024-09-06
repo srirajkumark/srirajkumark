@@ -1,6 +1,6 @@
 ![srk](https://user-images.githubusercontent.com/118669817/202903967-5b16cf4b-78b9-4467-8496-d78e7143a07b.jpg)
 - Hi, I’m Sri Raj Kumar.
-- I'm a Frontend UI Developer.
+- I'm a Frontend Developer.
 - I’m an Aspiring Full Stack Developer.
 - I have strong knowledge of tools and technologies including HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React, WordPress, Sitecore, C#, and Python.
 - Always focus on Learning.
