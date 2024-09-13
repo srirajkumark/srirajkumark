@@ -3,7 +3,7 @@
 - I'm a Frontend Developer.
 - I’m an Aspiring Full Stack Developer.
 - I have strong knowledge of tools and technologies including HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React, WordPress, Sitecore, C#, and Python.
-- Always focus on Learning.
+- Always focus on Development.
 - Thank you for visiting my GitHub Profile.
 
 
