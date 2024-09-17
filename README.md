@@ -2,7 +2,7 @@
 - Hello, I’m Sri Raj Kumar Kamisetti.
 - I'm a Frontend Developer.
 - I’m an Aspiring Full Stack Developer.
-- I have strong knowledge of tools and technologies including HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React, WordPress, Sitecore, C#, and Python.
+- I have strong knowledge of tools and technologies including HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React, WordPress, Sitecore and Python.
 - Always focus on Learning.
 - Thank you for visiting my GitHub Profile.
 
