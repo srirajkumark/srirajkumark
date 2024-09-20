@@ -4,6 +4,7 @@
 - I’m an Aspiring Full Stack Developer.
 - I have strong knowledge of tools and technologies including HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React, WordPress, Sitecore and Python.
 - Always focus on Learning.
+- Building Network.
 - Thank you for visiting my GitHub Profile.
 
 
